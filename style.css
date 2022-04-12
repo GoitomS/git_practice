@@ -1,0 +1,18 @@
+#main {
+    background-color: rgb(255, 238, 0);
+}
+#header_2 {
+    font-family: 'Tahoma';
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin: 0pt;
+}
+#header_2v {
+    font-family: 'cambria';
+    font-weight: lighter;
+    font-size: 30px;
+    text-align: center;
+    font-stretch: extra-condensed;
+    margin: 0pt;
+}
